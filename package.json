@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "langchain": "^0.0.138",
-    "openai": "^4.3.1",
+    "openai": "^4.4.0",
     "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
   }
 }
